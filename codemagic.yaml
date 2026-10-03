@@ -2,7 +2,7 @@ workflows:
   android-debug:
     name: Vanz Music APK Build
     max_build_duration: 30
-    instance_type: linux  # Ini mesin standar yang 100% gratis untuk Android
+    instance_type: mac_mini_m2  # Ini mesin resmi yang 100% GRATIS 500 menit/bulan
     scripts:
       - name: Build Android APK
         script: |
