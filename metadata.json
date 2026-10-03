@@ -1,0 +1,6 @@
+{
+  "name": "Vanz Music",
+  "description": "Apple Music styled modern music player with YouTube Data API search, real-time synchronized fluid lyrics, and high-fidelity streaming playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
